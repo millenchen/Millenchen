@@ -7,7 +7,7 @@
 >I’m a beginner in programming, currently learning Software Engineering through RevoU’s Full-Stack Software Engineering program.
 I started my programming journey from zero, and this GitHub is where I’ll document my progress, practice coding, and share the projects I build along the way.
 
-📚 Currently Learning
+### 📚 Currently Learning
 
 * Programming Fundamentals
 * Python
@@ -15,7 +15,7 @@ I started my programming journey from zero, and this GitHub is where I’ll docu
 * Programming Logic & Problem Solving
 * Full-Stack Development
 
-🎯 My Goals
+### 🎯 My Goals
 
 * Build a strong foundation in programming.
 * Improve my problem-solving skills.
@@ -23,7 +23,7 @@ I started my programming journey from zero, and this GitHub is where I’ll docu
 * Develop my Full-Stack Development skills.
 * Build real-world projects.
 
-💻 My Learning Journey
+### 💻 My Learning Journey
 
 I’m still at the beginning of my programming journey.
 
