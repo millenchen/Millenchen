@@ -4,16 +4,22 @@
 
 **Welcome to my GitHub!**
 
->I’m a beginner in programming, currently learning Software Engineering through RevoU’s Full-Stack Software Engineering program.
-I started my programming journey from zero, and this GitHub is where I’ll document my progress, practice coding, and share the projects I build along the way.
+> I'm a beginner in programming, currently learning Software Engineering through RevoU's Full-Stack Software Engineering program.
+
+I started my programming journey from zero, and this GitHub is where I'll document my progress, practice coding, and share the projects I build along the way.
 
 ### 📚 Currently Learning
 
 * Programming Fundamentals
 * Python
 * JavaScript
-* Programming Logic & Problem Solving
+* PostgreSQL & Database Design
+* Backend Development
 * Full-Stack Development
+
+### 🚀 Projects
+
+* [RevoShop Database](https://github.com/millenchen/RevoShop_db) — PostgreSQL database schema for an e-commerce store, built as part of RevoU Backend Development module
 
 ### 🎯 My Goals
 
@@ -25,33 +31,25 @@ I started my programming journey from zero, and this GitHub is where I’ll docu
 
 ### 💻 My Learning Journey
 
-I’m still at the beginning of my programming journey.
+I'm still at the beginning of my programming journey.
 
-This GitHub is my learning space, where I’ll share coding exercises, experiments, practice projects, and eventually more advanced applications.
+This GitHub is my learning space, where I'll share coding exercises, experiments, practice projects, and eventually more advanced applications.
 
-I’m here to learn, make mistakes, improve, and keep building.
+I'm here to learn, make mistakes, improve, and keep building.
 
-🛠️ Tools I’m Using
+### 🛠️ Tools I'm Using
 
 * Visual Studio Code
 * Kiro IDE
+* pgAdmin 4
+* PostgreSQL
 * GitHub
 
-⸻
+### 📫 Contact Me
+
+* 📧 Email: millen.chnn@gmail.com
+* 💼 LinkedIn: [millen-chen](https://www.linkedin.com/in/millen-chen-958938393/)
+
+---
 
 ⭐ Thanks for visiting my profile!
-
-<!--
-**millenchen/Millenchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
